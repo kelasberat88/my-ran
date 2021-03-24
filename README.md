@@ -1,11 +1,11 @@
 # my-ran
-Project Tim MY-RAN DTS 2021
+Project Tim MY-RAN DTS 2021<br /><br />
 
-MY-RAN merupakan akronim dari nama-nama personil tim peserta DTS 2021, yakni:
-M = Maria Brighitta Corry Timmerman
-Y = Yohanes Setiawan Japriadi
-R = Rendy Rian Chrisna Putra
-A = Andi Arief
-N = Nyi Dewi Harta Putih 
+<strong>MY-RAN</strong> merupakan akronim dari nama-nama personil tim peserta DTS 2021, yakni:<br />
+<strong>M</strong> = Maria Brighitta Corry Timmerman<br />
+<strong>Y</strong> = Yohanes Setiawan Japriadi<br />
+<strong>R</strong> = Rendy Rian Chrisna Putra<br />
+<strong>A</strong> = Andi Arief<br />
+<strong>N</strong> = Nyi Dewi Harta Putih <br /><br />
 
-MY-RAN sendiri dapat diartikan secara bebas "pelarian ku". Ya mungkin karena kami di tim "lari" sebentar dari rutinitas masing-masing :)
+MY-RAN sendiri dapat diartikan secara bebas "<em>pelarian ku</em>". Ya mungkin karena kami di tim "<em>lari</em>" sebentar dari rutinitas masing-masing untuk mengikuti kegiatan DTS 2021 :)
