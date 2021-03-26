@@ -158,6 +158,10 @@ header {
   color: white;
 }
 
+.lesson-icon p:hover {
+  color: black;
+}
+
 .text-contents {
   width: 80%;
   display: inline-block;
