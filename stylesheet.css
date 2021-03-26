@@ -173,11 +173,11 @@ header {
   display: inline-block;
   margin-top: 15px;
   font-size: 15px;
-  color: #b3aeb5;
+  color: rgb(88, 87, 87);
 }
 
 .text-contents:hover {
-  color: black;
+  color: #313131;
 }
 
 .heading h3 {
