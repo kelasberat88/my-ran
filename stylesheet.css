@@ -21,7 +21,7 @@ a {
   margin: 0 auto;
 }
 
-.top-wrapper {
+.main {
   padding: 180px 0 100px 0;
   background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
@@ -29,24 +29,24 @@ a {
   text-align: center;
 }
 
-.top-wrapper h1 {
+.main h1 {
   opacity: 0.7;
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
 }
 
-.top-wrapper p {
+.main p {
   opacity: 0.7;
   margin-bottom: 3px;
 }
 
-.btn-wrapper {
+.contents-item {
   text-align: center;
   margin: 20px 0;
 }
 
-.btn-wrapper p {
+.contents-item p {
   margin: 10px 0;
 }
 
