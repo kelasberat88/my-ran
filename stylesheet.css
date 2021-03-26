@@ -142,6 +142,12 @@ header {
   font-weight: normal;
 }
 
+.headingbawah {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  color: #5f5d60;
+}
+
 .lesson {
   float: left;
   width: 25%;
