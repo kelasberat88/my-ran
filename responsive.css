@@ -28,6 +28,22 @@
     height: 400px;
     margin-bottom: 50px;
   }
+  
+  .media-sosial-ikon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .afiliasi-ikon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .copyrights {
+    text-align: center;
+  }
 }
 
 /* Untuk Smartphone */
@@ -66,7 +82,42 @@
     width: 100%;
   }
   
-  footer {
+  .media-sosial-ikon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .afiliasi-ikon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .copyrights {
     text-align: center;
+  }
+
+  .kominfo {
+    object-fit: contain;
+    height: 35px;
+    width: auto;
+    margin-right: 20px;
+  }
+
+  .dts {
+    object-fit: contain;
+    height: 35px;
+    width: auto;
+  }
+
+  .progate {
+    object-fit: contain;
+    height: 35px;
+    width: auto;
+  }
+
+  .copyrights {
+    font-size: 10px;
   }
 }
