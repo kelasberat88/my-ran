@@ -221,4 +221,61 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  background-color: #2e3940;
+}
+
+.media-sosial ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.media-sosial-ikon li {
+  flex: wrap;
+  margin-right: 20px;
+}
+
+.media-sosial-ikon a {
+  color: #ffffff;
+}
+
+.media-sosial-ikon a:hover {
+  color: #55acee;
+}
+
+.afiliasi ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+}
+
+.afiliasi-ikon li {
+  flex: wrap;
+  margin-right: 10px;
+}
+
+.kominfo {
+  object-fit: contain;
+  height: 50px;
+  width: auto;
+  margin-right: 20px;
+}
+
+.dts {
+  object-fit: contain;
+  height: 50px;
+  width: auto;
+}
+
+.progate {
+  object-fit: contain;
+  height: 50px;
+  width: auto;
+}
+
+.copyrights {
+  color: #ffffff;
+  font-size: 14px;
+  font-family: "Sriracha", cursive;
 }
