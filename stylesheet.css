@@ -24,8 +24,7 @@ a {
 .main {
   padding: 180px 0 100px 0;
   color: white;
-  background-image: url(hospital5.png);
-  background-size: cover;
+  background-color: blue;
   text-align: center;  
 }
 
