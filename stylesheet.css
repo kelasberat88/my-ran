@@ -23,10 +23,12 @@ a {
 
 .main {
   padding: 180px 0 100px 0;
-  background-image: hospital.png);
-  background-size: cover;
   color: white;
   text-align: center;
+}
+
+.background img {
+  background-size: cover;
 }
 
 .main h1 {
