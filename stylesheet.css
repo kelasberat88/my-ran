@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: "Arial";
+  font-family: "Geneva";
 }
 
 a {
@@ -24,7 +24,8 @@ a {
 .main {
   padding: 180px 0 100px 0;
   color: white;
-  background-color: #2980b9;
+  background-image: hospital5.jfif;
+  background-size: cover;
   text-align: center;  
 }
 
@@ -41,9 +42,10 @@ a {
 }
 
 .main img {
-  width: 300px;
-  height: 300px;
-{
+  width: 500px;
+  height: 500px;
+}
+
 .contents-item {
   text-align: center;
   margin: 20px 0;
