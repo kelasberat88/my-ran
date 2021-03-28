@@ -24,11 +24,9 @@ a {
 .main {
   padding: 180px 0 100px 0;
   color: white;
-  text-align: center;
-}
-
-.background img {
+  background-img: hospital.png
   background-size: cover;
+  text-align: center;  
 }
 
 .main h1 {
