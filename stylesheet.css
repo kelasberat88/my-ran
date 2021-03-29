@@ -86,16 +86,18 @@ header {
   margin-bottom: 3px;
 }
 
-/*.main img {
-  width: 500px;
-  height: 500px;
-}*/
 
 .contents-item {
   text-align: center;
   margin: 20px 0;
   font-size: 30px;
 }
+
+.contents-item img {
+  width: 500px;
+  height: 500px;
+}
+
 
 .contents-item p {
   margin: 20px 0;
