@@ -13,13 +13,8 @@
   position:absolute;
 }
 
-.content-item img {
-  width: 500px;
-  height: 500px;
-}
-
 /* Untuk Tablet */
-@media all and (max-width: 1000px) {
+@media (max-width: 1000px) {
   .top-wrapper h1 {
     font-size: 32px;
   }
@@ -57,7 +52,7 @@
 }
 
 /* Untuk Smartphone */
-@media all and (max-width: 670px) {
+@media (max-width: 670px) {
   .header-right {
     display: none;
   }
@@ -135,4 +130,10 @@
     width: 100%;
     height: 100%;
   }
+}
+
+
+.content-item img {
+  width: 500px;
+  height: 500px;
 }
